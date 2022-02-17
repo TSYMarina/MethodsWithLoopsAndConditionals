@@ -189,7 +189,7 @@ namespace MethodsWithLoopsAndConditionals
             PositiveOrNegative();
             Console.WriteLine("\n\n");
 
-            // Runs a method to read the age of a candidate and determine whether they can vote. Hint: use Parse()... or the safer TryParse() for an extra challenge!!
+            // Runs a method to read the age of a candidate and determine whether they can vote.
             VotingAge();
             Console.WriteLine("\n\n");
 
